@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 aiogram==3.2.0
-=======
 aiogram==3.2.0
->>>>>>> d00ece8a0b4cb46f8a8fb84670182c00e60b718f
